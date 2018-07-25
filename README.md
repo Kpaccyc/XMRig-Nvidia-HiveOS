@@ -15,18 +15,19 @@ Used manual at https://github.com/minershive/hiveos-linux/tree/master/hive/custo
 ### Usage
 Fill the fields as follows:
 * Custom miner name:
-```xmrig-amd```
+```xmrig-nvidia```
 * Installation URL:
 ```Use link from download section```
 * Wallet and worker template:
 ```%DWAL%```
 * Pool URL:
-```You'r pool ORL and port```
+```You'r pool URL and port```
 * Pass:
 ```Check you'r pool settings```
 * Extra config arguments:
 ``` -a (algo) -k --cuda-devices=(you devices ID)```
 
+![image](https://user-images.githubusercontent.com/41443179/43224482-04072e7e-905f-11e8-813a-9c457f8c22be.png)
 
 ### Excta config arguments:
 
