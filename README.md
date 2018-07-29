@@ -17,7 +17,7 @@ Fill the fields as follows:
 * Custom miner name:
 ```xmrig-nvidia```
 * Installation URL:
-```Use link from download section```
+```https://github.com/Kpaccyc/XMRig-Nvidia-HiveOS/releases/download/v2.7.0-beta/xmrig-nvidia.tar.gz```
 * Wallet and worker template:
 ```%DWAL%```
 * Pool URL:
