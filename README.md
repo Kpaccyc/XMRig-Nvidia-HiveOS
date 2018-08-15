@@ -15,12 +15,14 @@ Used manual at https://github.com/minershive/hiveos-linux/tree/master/hive/custo
 
 ### Usage
 Fill the fields as follows:
-* Custom miner name:
+* Miner name:
 ```xmrig-nvidia```
 * Installation URL:
 ```https://github.com/Kpaccyc/XMRig-Nvidia-HiveOS/releases/download/v2.7.0-beta/xmrig-nvidia.tar.gz```
+* Hash algorithm:
+```Chose coin algo```
 * Wallet and worker template:
-```%DWAL%```
+```%WAL%```
 * Pool URL:
 ```You'r pool URL and port```
 * Pass:
@@ -28,7 +30,7 @@ Fill the fields as follows:
 * Extra config arguments:
 ``` -a (algo) -k --cuda-devices=(you devices ID)```
 
-![image](https://user-images.githubusercontent.com/41443179/43224482-04072e7e-905f-11e8-813a-9c457f8c22be.png)
+![image](https://user-images.githubusercontent.com/41443179/44172988-5ba17e80-a0e7-11e8-913a-040761b2a28e.png)
 
 ### Excta config arguments:
 
