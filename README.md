@@ -3,7 +3,7 @@ Used manual at https://github.com/minershive/hiveos-linux/tree/master/hive/custo
 
 ### Current XMRig-Nvidia CUDA 8.0 version
 * 2.7.0-beta https://github.com/xmrig/xmrig-nvidia/releases/tag/v2.7.0-beta
-### GPU supported:
+### GPU supported: 
  * GeForce 5xx series
  * GeForce 7xx series
  * GeForce 9xx series
