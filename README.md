@@ -11,14 +11,14 @@ Used manual at https://github.com/minershive/hiveos-linux/tree/master/hive/custo
 
 ### Download
 
-* Binary releases https://github.com/Kpaccyc/XMRig-Nvidia-HiveOS/releases/tag/v2.7.0-beta
+* Binary releases https://github.com/Kpaccyc/XMRig-Nvidia-HiveOS/releases
 
 ### Usage
 Fill the fields as follows:
 * Miner name:
-```xmrig-nvidia```
+```xmrignvidia```
 * Installation URL:
-```https://github.com/Kpaccyc/XMRig-Nvidia-HiveOS/releases/download/v2.7.0-beta/xmrig-nvidia.tar.gz```
+```https://github.com/Kpaccyc/XMRig-Nvidia-HiveOS/releases/download/Release/xmrignvidia.tar.gz```
 * Hash algorithm:
 ```Chose coin algo```
 * Wallet and worker template:
@@ -30,7 +30,7 @@ Fill the fields as follows:
 * Extra config arguments:
 ``` -a (algo) -k --cuda-devices=(you devices ID)```
 
-![image](https://user-images.githubusercontent.com/41443179/44172988-5ba17e80-a0e7-11e8-913a-040761b2a28e.png)
+![image](https://user-images.githubusercontent.com/41443179/45201040-4bab3380-b27c-11e8-81fd-d477ed343e43.png)
 
 ### Excta config arguments:
 
