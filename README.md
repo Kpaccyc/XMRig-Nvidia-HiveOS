@@ -30,7 +30,7 @@ Fill the fields as follows:
 * Extra config arguments:
 ``` -a (algo) -k --cuda-devices=(you devices ID)```
 
-![image](https://user-images.githubusercontent.com/41443179/45201040-4bab3380-b27c-11e8-81fd-d477ed343e43.png)
+![image](https://user-images.githubusercontent.com/41443179/45201068-6e3d4c80-b27c-11e8-9718-31a8cd7536c6.png)
 
 ### Excta config arguments:
 
