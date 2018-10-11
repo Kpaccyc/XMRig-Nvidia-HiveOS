@@ -2,7 +2,7 @@
 Used manual at https://github.com/minershive/hiveos-linux/tree/master/hive/custom/
 
 ### Current XMRig-Nvidia CUDA 8.0 version
-* 2.7.0-beta https://github.com/xmrig/xmrig-nvidia/releases/tag/v2.7.0-beta
+* 2.8.0-rc https://github.com/xmrig/xmrig-nvidia/releases/tag/v2.8.0-rc
 ### GPU supported: 
  * GeForce 5xx series
  * GeForce 7xx series
@@ -12,6 +12,9 @@ Used manual at https://github.com/minershive/hiveos-linux/tree/master/hive/custo
 ### Download
 
 * Binary releases https://github.com/Kpaccyc/XMRig-Nvidia-HiveOS/releases
+
+### Upgrade
+* run at console ```custom-get https://github.com/Kpaccyc/XMRig-Nvidia-HiveOS/releases/download/Release/xmrignvidia.tar.gz -f```
 
 ### Usage
 Fill the fields as follows:
