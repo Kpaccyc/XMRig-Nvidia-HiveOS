@@ -16,6 +16,8 @@ Used manual at https://github.com/minershive/hiveos-linux/tree/master/hive/custo
 ### Upgrade
 * run at console ```custom-get https://github.com/Kpaccyc/XMRig-Nvidia-HiveOS/releases/download/Release/xmrignvidia.tar.gz -f```
 
+![image](https://user-images.githubusercontent.com/41443179/46826271-3f942380-cd9e-11e8-8035-3dc25a7e05f8.png)
+
 ### Usage
 Fill the fields as follows:
 * Miner name:
