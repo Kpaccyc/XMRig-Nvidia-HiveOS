@@ -2,7 +2,7 @@
 Used manual at https://github.com/minershive/hiveos-linux/tree/master/hive/custom/
 
 ### Current XMRig-Nvidia CUDA 8.0 version
-* 2.8.0-rc https://github.com/xmrig/xmrig-nvidia/releases/tag/v2.8.0-rc
+* 2.8.4 https://github.com/xmrig/xmrig-nvidia/releases/tag/v2.8.4
 ### GPU supported: 
  * GeForce 5xx series
  * GeForce 7xx series
@@ -48,14 +48,14 @@ Fill the fields as follows:
 --cuda-bfactor=[0-12] run CryptoNight core kernel in smaller pieces
 --cuda-bsleep=N       insert a delay of N microseconds between kernel launches
 --cuda-affinity=N     affine GPU threads to a CPU
---donate-level=N      donate level, default 5% (5 minutes in 100 minutes)
+--donate-level=N      donate level, default 1% (1 minute in 100 minutes)
 --nicehash            enable nicehash support
 ```
 All configuration commands are entered sequentially as to start the miner from the command line
 
 
 ### Donations
-Default donation 5% (5 minutes in 100 minutes) can be adjusted via command line option --donate-level
+Default donation 1% (1 minute in 100 minutes) can be adjusted via command line option --donate-level
 
 * Kpaccyc:
 
